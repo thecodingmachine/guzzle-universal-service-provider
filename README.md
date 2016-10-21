@@ -1,5 +1,3 @@
-This project contains sample README and PHP files to quickstart a "container-interop/service-provider". Use it as a base to start your own service-provider package.
-
 [![Latest Stable Version](https://poser.pugx.org/thecodingmachine/guzzle-universal-service-provider/v/stable)](https://packagist.org/packages/thecodingmachine/guzzle-universal-service-provider)
 [![Latest Unstable Version](https://poser.pugx.org/thecodingmachine/guzzle-universal-service-provider/v/unstable)](https://packagist.org/packages/thecodingmachine/guzzle-universal-service-provider)
 [![License](https://poser.pugx.org/thecodingmachine/guzzle-universal-service-provider/license)](https://packagist.org/packages/thecodingmachine/guzzle-universal-service-provider)
