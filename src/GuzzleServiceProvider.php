@@ -9,6 +9,7 @@ use Http\Client\HttpAsyncClient;
 use Http\Client\HttpClient;
 use Interop\Container\ContainerInterface;
 use Interop\Container\Factories\Alias;
+use Interop\Container\ServiceProvider;
 
 class GuzzleServiceProvider implements ServiceProvider
 {
