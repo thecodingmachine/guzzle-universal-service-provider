@@ -13,7 +13,7 @@
     "container-interop/service-provider": "^0.3",
     "guzzlehttp/guzzle": "^6.0",
     "php-http/guzzle6-adapter": "^1.1",
-    "thecodingmachine/common-factories": "dev-master"
+    "thecodingmachine/common-factories": "^0.3"
   },
   "require-dev": {
     "puli/cli":"^1.0",
